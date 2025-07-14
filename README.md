@@ -1,197 +1,259 @@
-‎![FATIMA-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+FATIMA-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+MANY%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY)
-```
-DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
-```
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size: 42px; color: #00FFFF; text-shadow: 4 0 10px #00FFFF, 0 0 25px #0088FF;">
+FATIMA-𝗠𝗗
+</h1>
 
 ---
 
-> **CURRENT BOT VERSION ➜ `4.5.0 ⚡`**
----
-
-
-
-
-
-  <p align="center">
-<a href="https://github.com/policeduafatima-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKZONE-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/policeduafatima/FATIMA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/policeduafatima/FATIMA-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/policeduafatima/FATIMA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/policeduafatima/FATIMA-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/policeduafatima/FATIMA-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/policeduafatima/FATIMA-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/policeduafatima/FATIMA-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+ALI-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ALI+INXIDE" alt="Typing SVG" /></a>
-  </p>
+---
+
+<h2 align="center">📊 FATIMA-MD Analytics </h2> 
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=policeduafatima640&label=Profile+Views&color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/stars/policeduafatima640/FATIMA-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/forks/policeduafatima640/FATIMA-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/policeduafatima640/FATIMA-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/policeduafatima640/FATIMA-MD?color=ff00ff&style=flat-square" />
+
+</div>
+
+---
+
+> **Deploy New Version `5.0.0`**  
+
+---
+
+## DEPLOY NEW VERSION
+
+<p align="center"><strong>⚡ VERSION 5.0</strong></p>
+
+<p align="center">
+  <a href="https://github.com/policeduafatima640/FATIMA-MD" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
+      alt="Deploy Button"
+      width="280"
+    >
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://files.catbox.moe/bgwzkl.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+</div>
+
+---
+
+<h2 align="center">🛰️ Deployment Steps</h2>
+
+<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
+
+  <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
+    <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
+    <a href='https://github.com/policeduafatima640/FATIMA-MD/fork' target="_blank">
+      <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+    </a>
+  </div>
+
+</div>
+
+<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
+
+  <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #00ffff;">
+    <p style="color: #ff00ff; font-size: 16px;">📦 Next, deploy using your preferred method (Heroku, Railway, etc.)</p>
+    <ul style="color: #ffffff; line-height: 1.6;">
+      <li>📁 Clone or fork the repository</li>
+      <li>⚙️ Add your <code>.env</code> variables</li>
+      <li>🚀 Deploy using platform buttons or manual setup</li>
+    </ul>
+  </div>
+
+</div>
   
---- 
+---
 
-<a href="https://ibb.co/GvT68BsK"><img src="https://files.catbox.moe/bgwzkl.jpg" alt="glow" border="0"></a>
-***
+## 🚀 Pairing Dashboard
 
+> Securely link your device using the official FATIMA-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
 
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; padding:20px;">
 
-
-### 1. 𐃁FORK THIS REPOSITORY𐃁
-
-`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
-
-  <a href="https://github.com/policeduafatima/FATIMA-MD/fork"><img title="FATIMA-MD" src="https://img.shields.io/badge/FORK-FATIMA%20MD-MDh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <!-- Link 1 -->
+  <div style="background:#0f0f0f; border:2px solid #00FFFF; border-radius:10px; padding:15px 25px; box-shadow:0 0 12px #00ffff; min-width:250px; text-align:center;">
+    <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
+      🔗 <strong>Pairing Server 01</strong>
+    </p>
+    <a href="https://dua-pair-3b063556e9ea.herokuapp.com/pair" target="_blank">
+      <img src="https://img.shields.io/badge/PAIR_CODE_1-F0FF35?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
+    </a>
+  </div>
   
-### 2. 𐃁GET SESSION ID𐃁 
+---
 
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92315xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+## 📡 DEPLOYMENT SITES
+
+<p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/policeduafatima640/FATIMA-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=policeduafatima640/FATIMA-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/policeduafatima640/FATIMA-MD" target="_blank">
+        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/policeduafatima640/FATIMA-MD" target="_blank">
+        <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
 
 
-> **1. PAIR CODE SESSION ID**
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/policeduafatima640/FATIMA-MD/archive/refs/heads/main.zip" target="_blank">
+        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
 
-<a href='https://duafatima.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+<hr>
+<p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
+
+---
+
+## ✨ FATIMA-MD Features
+
+- 🤖 WhatsApp Multi-Device Support
+- 🔁 Anti-Delete (Text + Media)
+- 🎵 YouTube Audio Downloader
+- 📥 Media Downloader (Instagram, TikTok, etc.)
+- 🧠 AI Chatbot
+- 💬 Group Moderation Commands
+- 📛 Auto Sticker Response
+- 🎮 Word Relay & Game Plugins
+- 👮 Admin Tools (Ban, Kick, Promote)
+- 🌐 Web-based Pairing Interface
+- 📤 Sticker Maker (Image to Sticker)
+
+---
+
+<h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;">
+🪀 OFFICIAL SUPPORT CHANNEL
+</h2>
+
+<div align="center" style="margin-top: 15px; margin-bottom: 15px; background:#0e0e0e; padding: 20px; border-radius: 12px; border: 2px solid #25D366; box-shadow: 0 0 15px #25D366; width: 95%;">
+
+<p style="color:#e0e0e0; font-size:14px; font-family:sans-serif;">
+📢 Get updates, fixes, and sneak peeks directly from the official channel.
+</p>
+
+<a href="https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O" target="_blank">
+  <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
 </a>
-<br> 
 
-> **2. PAIR CODE SESSION ID**
+</div>
 
-<a href='https://stark-dua-pair.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+---
+
+<h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
+🧾 PROJECT STATS FATIMA-MD
+</h2>
+
+<div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
+
+<a href="https://github.com/policeduafatima640" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=JawadYT36&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
 </a>
-<br> 
 
-
-
----
-
-### <h2 align="">FATIMA-MD DEPLOYMENT OPTIONS𐃁</h2>
+</div>
 
 ---
 
-### <h4 align="">1. HEROKU</h4>
-<p style="text-align: center; font-size: 1.2em;">
+<h2 align="center" style="color:#ff00ff; font-family:monospace; font-size:26px;">
+🧠 DEVELOPER NOTICE
+</h2>
 
+<div align="center" style="background:#0d0d0d; border:2px dashed #ff00ff; border-radius:12px; padding:20px; width:90%; box-shadow:0 0 15px #ff00ff;">
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fpoliceduafatima/%2FATIMA-MD)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p style="color:#ffffff; font-size:15px; font-family:sans-serif;">
+🚫 This project is <strong>NOT FOR SALE</strong> and is provided for educational and personal use only.<br><br>
+📛 <strong>Do not use without giving proper credit</strong> to the original author.<br><br>
+🛑 Unauthorized selling, re-uploading, or branding as your own is strictly prohibited.
+</p>
 
-### <h4 align="">3. KOYEB</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=itx-policeduafatima/FATIMA-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20ALI-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">2. TALKDROVE FREE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://talkdrove.com/share-bot/11' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">4. RAILWAY</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">5. RENDER</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://render.com/deploy?repo=https://github.com/policeduafatima/FATIMA-MD.git' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <h4 align="">6. HUGGING FACE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<details>
-  
-<b><strong><summary align="" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
-
-## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
-<h6 align-"center">
-*❄️ Deploy ali-md On Hugging Face For Free !*
-
-`Specs :`
-- v2 CPU
-- 16GB RAM
-
-> `Steps to deploy`
-
-`Step 1`
-1. Go to hugginface.co/join and create an account and verify your email too.
-
-`Step 2`
-1. Go to https://huggingface.co/spaces/policeduafatima/FATIMA-MD
-
-2. Tap on *three dots* _(as shown in image)_
-
-3. Tap on *duplicate space* _(as shown in image)_
-
-`Step 3`
-1. Fill your details, e.g., Session ID, Bot Name, owner number etc...
-
-2. Tap on *duplicate space shown below*
-
-```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
-
-> CREDITS PIKABOTZ🎐
-
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ*</h6>
-
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-### <h4 align="">7. REPLIT</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ERFAN AHMAD࿐➺
-
-<p align="">
-<a href='https://wa.me/+923155641171?text=*HELLO+DUA FATIMA+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+FATIMA-MD+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-## 🪀 WHATSAPP CHANNEL 
-STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
-
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O)
-
-## 🪀 WHATSAPP GROUP
-JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
-
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O)
-
- 
-
-
-***
-
-## <h2 align="left">⚠️ REMINDER </h2>
-<p style="text-align: center; font-size: 1.2em;">
-
-- **DISCLAIMER:**- REMEMBER IT If WhatsApp gets banned, I, Owner Erfan, will not be responsible for it.THIS BOT IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK.
-- MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED. NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.
-- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT. PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING.
+</div>
 
 ---
 
-## ‎![FATIMA-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+NOTICE!+NOT+FOR+SELL;🔥+ANYONE+COPY+BOT+FILE+SO+FORCE+MANY%2B+PROBLEM;⚡+DON'T+•+TRY+THIS+•+BOT+FILE)
+## 📜 DISCLAIMER
 
+<div align="center" style="background-color:#0f0f0f; border:2px solid #00ffff; border-radius:10px; padding:20px; box-shadow:0 0 10px #00ffff;">
 
+<h3 style="color:#00ffff; font-family:monospace;">📌 Read Carefully</h3>
 
-## ‎![FATIMA-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=+𝐸𝑅𝐹𝒜𝒩+𝒜𝐻𝑀𝒜𝒟+OWNER+(+923155641171))
-```
+<p style="color:#ffffff; font-size:14px;">
+This bot is <strong>not affiliated with WhatsApp Inc.</strong><br>
+Use at your own risk. We are <strong>not responsible</strong> for any misuse, abuse, or ban that results from improper use.<br>
+Inspired by the original work of <strong>Balleys</strong>, and enhanced by the community.
+</p>
+
+</div>
+
+---
+
+## 📝 LICENSE
+
+<div align="center" style="background-color:#101010; border:2px solid #888888; border-radius:10px; padding:15px; box-shadow:0 0 5px #666666;">
+
+<p style="color:#ffffff; font-size:14px;">
+This project is licensed under the <strong>Apache License 2.0</strong><br>
+You are free to use, modify, and distribute it under the terms of this license.
+</p>
+
+<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
+  <img src="https://img.shields.io/badge/License-Apache_2.0-ff69b4?style=for-the-badge&logo=apache" />
+</a>
+
+</div>
+
+---
+
+<h3 align="center">🙏 Thanks for using!</h3>
+<p align="center">
+  If you like this project, consider giving it a ⭐ on GitHub.<br>
+  Made with ❤️ by <a href="https://github.com/policeduafatima640">Duafatima</a>
+</p>
